@@ -25,16 +25,15 @@ Users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - Navigate the slider using either their mouse/trackpad or keyboard
 
-### Screenshot
+### Screenshots
 
-[Mobile](https://github.com/MCDoodle1/Testimonials-Slider/blob/master/design/Testimonial%20Slider%20-%20Mobile.png?raw=true)
-[Desktop](https://github.com/MCDoodle1/Testimonials-Slider/blob/master/design/Testimonial%20Slider%20-%20Desktop.png?raw=true)
-
+![Desktop Version](../design/Testimonial Slider - Desktop.png)
+![Mobile Version](../design/Testimonial Slider - Mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/MCDoodle1/Testimonials-Slider]
+- Live Site URL: [https://mcdoodle1.github.io/Testimonials-Slider/]
 
 ## My process
 
