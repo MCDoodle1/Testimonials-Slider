@@ -27,14 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-[Mobile](../testimonials-slider/design/Testimonial%20Slider%20-%20Mobile.png)
-[Desktop](../testimonials-slider/design/Testimonial%20Slider%20-%20Desktop.png)
-
+![mobile](./design/Testimonial%20Slider%20-%20Mobile.png)
+![desktop](./design/Testimonial%20Slider%20-%20Desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/MCDoodle1/Testimonials-Slider]
+- Live Site URL: [https://mcdoodle1.github.io/Testimonials-Slider/]
 
 ## My process
 
