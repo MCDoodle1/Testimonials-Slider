@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-[Mobile](../testimonials-slider/design/Testimonial%20Slider%20-%20Mobile.png)
-[Desktop](../testimonials-slider/design/Testimonial%20Slider%20-%20Desktop.png)
+[Mobile](https://github.com/MCDoodle1/Testimonials-Slider/blob/master/design/Testimonial%20Slider%20-%20Mobile.png?raw=true)
+[Desktop](https://github.com/MCDoodle1/Testimonials-Slider/blob/master/design/Testimonial%20Slider%20-%20Desktop.png?raw=true)
 
 
 ### Links
