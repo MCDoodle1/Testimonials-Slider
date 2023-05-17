@@ -25,10 +25,10 @@ Users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - Navigate the slider using either their mouse/trackpad or keyboard
 
-### Screenshots
+### Screenshot
 
-![Desktop Version](../design/Testimonial Slider - Desktop.png)
-![Mobile Version](../design/Testimonial Slider - Mobile.png)
+![mobile](./design/Testimonial%20Slider%20-%20Mobile.png)
+![desktop](./design/Testimonial%20Slider%20-%20Desktop.png)
 
 ### Links
 
