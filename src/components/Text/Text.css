@@ -1,0 +1,42 @@
+.text-container {
+    background: url("../../images/pattern-quotes.svg") no-repeat 30% 0% / 10%;
+    line-height: 1.75rem;
+    padding: 0 5rem;
+    /* grid-area: 2 / 1 / 3 / 3;     */
+}
+
+.personal {
+    display: flex;
+    flex-direction: column;
+}
+
+.name {
+    font-size: smaller;
+    font-weight: var(--fw-l);
+    padding-top: 1rem;
+}
+
+.jobtitle {
+    font-size: smaller;
+    font-weight: var(--fw-m);
+    color: var(--clr-primary-light);
+}
+
+@media (min-width: 1000px) {
+    .text-container {
+        grid-area: 1 / 1 / 3 / 3;
+        z-index: 2;
+        padding-right: 23rem;
+        text-align: left;
+    }
+
+    .personal {
+        flex-direction: row;
+        gap: .25rem;
+    }
+
+    .jobtitle {
+        padding-top: 1rem;
+    }
+}
+

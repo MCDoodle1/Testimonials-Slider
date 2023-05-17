@@ -1,0 +1,27 @@
+.image-container {
+    background-image: url("../../images/pattern-bg.svg");
+    background-position: 50%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    padding: clamp(1rem, 3ch, 4rem);
+    margin: 1rem;    
+}
+
+.image-container img {
+    width: min(400px, max(300px, 100%));
+    border-radius: 0.25rem;
+    box-shadow: 0 3.5rem 2rem -2rem var(--clr-primary-light);
+}
+
+@media (min-width: 1000px) {
+    .image-container {
+        grid-area: 1 / 2 / 3 / 3;
+        order: 2;
+    }    
+}
+
+
+

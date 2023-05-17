@@ -1,38 +1,66 @@
-.App {
-  text-align: center;
+:root {
+
+/* Font families. */
+--ff-primary: 'Inter', sans-serif;
+
+/* Font sizes. */
+--fs-default: 22px;
+
+
+/* Font weights */
+--fw-s:  300;
+--fw-m:  500;
+--fw-l:  700;
+
+
+/* Colour scheme */
+--clr-primary-light: hsl(240, 18%, 77%);
+--clr-primary-dark: hsl(240, 38%, 20%);
+--clr-background: white;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+html, body { 
+    width: clamp(375px, 100%, 1440px);
+    position: relative;                             /* fix footer in place */
+    margin: auto;
+    min-height: 100vh;
+    color: var(--clr-primary-dark);
+    font-family: var(--ff-primary);
+    font-size: clamp(0.778rem, 3vw + 0.25rem, 1.222rem);
+    font-weight: var(--fw-s);
+    text-align: center;
+    background: 
+    url("../src/images/pattern-curve.svg") no-repeat 0 100%,
+    var(--clr-background); 
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+main {
+    display: grid;
+    grid-template-columns: 1fr;
+    align-items: center;
+    padding-bottom: 2rem;                        /* fix footer in place */
 }
 
-.App-link {
-  color: #61dafb;
+footer {
+    position: absolute;                          /* fix footer in place */
+    bottom: 0;
+    width: 100%;
+    height: 2rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+ 
+
+
+
+
+
+
+  

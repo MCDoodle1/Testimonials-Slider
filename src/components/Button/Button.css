@@ -1,0 +1,32 @@
+button {
+    border: none;
+    background: transparent;
+}
+
+
+.button-container {
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: var(--clr-background);
+    width: 4.75rem;
+    height: 2.25rem;
+    border-radius: 25% / 50%;
+    z-index: 1;
+    transform: translate(0, 50%);
+}
+
+.button-container img {
+    width: .8rem;
+    height: .8rem;
+}
+
+@media (min-width: 1000px) {
+    .button-container {
+        transform: translate(-120%, 50%)
+    }    
+}
+
+
+
