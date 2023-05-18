@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Testimonials-Slider/static/css/main.fed8eadf.css",
-    "main.js": "/Testimonials-Slider/static/js/main.bd057219.js",
-    "static/media/pattern-bg.svg": "/Testimonials-Slider/static/media/pattern-bg.7f46e67e7d84324800ef.svg",
-    "index.html": "/Testimonials-Slider/index.html",
-    "static/media/pattern-quotes.svg": "/Testimonials-Slider/static/media/pattern-quotes.219bd182b41259a321a8.svg",
-    "static/media/pattern-curve.svg": "/Testimonials-Slider/static/media/pattern-curve.05698a95740cb41f8c3c.svg",
-    "static/media/icon-prev.svg": "/Testimonials-Slider/static/media/icon-prev.f72bba8e1f8b7df258c2f5d918944b16.svg",
-    "static/media/icon-next.svg": "/Testimonials-Slider/static/media/icon-next.0aa189dbfa66ca43c7a2b7c1915624e0.svg",
-    "main.fed8eadf.css.map": "/Testimonials-Slider/static/css/main.fed8eadf.css.map",
-    "main.bd057219.js.map": "/Testimonials-Slider/static/js/main.bd057219.js.map"
+    "main.css": "/static/css/main.1b33a0a2.css",
+    "main.js": "/static/js/main.81c44eb3.js",
+    "static/media/pattern-bg.svg": "/static/media/pattern-bg.7f46e67e7d84324800ef.svg",
+    "index.html": "/index.html",
+    "static/media/pattern-quotes.svg": "/static/media/pattern-quotes.219bd182b41259a321a8.svg",
+    "static/media/pattern-curve.svg": "/static/media/pattern-curve.05698a95740cb41f8c3c.svg",
+    "static/media/icon-prev.svg": "/static/media/icon-prev.f72bba8e1f8b7df258c2f5d918944b16.svg",
+    "static/media/icon-next.svg": "/static/media/icon-next.0aa189dbfa66ca43c7a2b7c1915624e0.svg",
+    "main.1b33a0a2.css.map": "/static/css/main.1b33a0a2.css.map",
+    "main.81c44eb3.js.map": "/static/js/main.81c44eb3.js.map"
   },
   "entrypoints": [
-    "static/css/main.fed8eadf.css",
-    "static/js/main.bd057219.js"
+    "static/css/main.1b33a0a2.css",
+    "static/js/main.81c44eb3.js"
   ]
 }
