@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/MCDoodle1/Testimonials-Slider]
-- Live Site URL: [https://mcdoodle1.github.io/Testimonials-Slider/]
+- Live Site URL: [https://mcdoodle1.github.io/testimonials-slider]
 
 ## My process
 
